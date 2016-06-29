@@ -2,8 +2,8 @@
 organize trends of twitter
 
 ==NOTE==
-twitter : https://twitter.com/tweetTrendProj
-e-mail : tweettrendsproject@gmail.com
+- twitter : https://twitter.com/tweetTrendProj
+- e-mail : tweettrendsproject@gmail.com
 
 ==TO DO==
 - Get trends of twitter
