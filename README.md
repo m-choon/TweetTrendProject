@@ -13,10 +13,9 @@ organize trends of twitter
 ==Documents==
 - 트위터 관련 공식 문서 : https://dev.twitter.com/overview/documentation 
 - Twitter4J 관련 공식 문서 : http://twitter4j.org/ko/index.html
-- Get trends API : 
+- Get trends API :
 1) Place : https://dev.twitter.com/rest/reference/get/trends/place
 2) available : https://dev.twitter.com/rest/reference/get/trends/available
 3) closest : https://dev.twitter.com/rest/reference/get/trends/closest
-- Fabric 에 대한 정보입니다. Fabric은 트위터에서 제공하는 '개발자들이 더 나은 모바일 앱을 만들 수 있도록 도와주는 모듈형 플랫폼'입니다. : https://blog.twitter.com/ko/2014/introducing-fabric-kr
+- Fabric : https://blog.twitter.com/ko/2014/introducing-fabric-kr (Fabric은 트위터에서 제공하는 '개발자들이 더 나은 모바일 앱을 만들 수 있도록 도와주는 모듈형 플랫폼'입니다.)
 - Fabric for web : https://docs.fabric.io/web/fabric/overview.html
-- 
